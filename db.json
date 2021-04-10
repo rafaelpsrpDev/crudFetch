@@ -1,0 +1,28 @@
+{
+  "profile": [
+    {
+      "nome": "Rafael Pauloa",
+      "email": "rafaelpsrp@hotmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Pedro",
+      "email": "pedrojhp@outlook.com",
+      "id": 5
+    },
+    {
+      "nome":"Fabio",
+      "email":"fabiogmh@gmail.com",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "nome": "Computador",
+      "preço": 2300.99,
+      "id": 1
+    }
+  ]
+}
+
+
